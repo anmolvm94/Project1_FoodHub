@@ -1,2 +1,2 @@
 # Project1_FoodHub
-FoodHub is a food aggregator company that offers its customers access to multiple restaurants through a single smartphone app. In this project, we analyze Foodhub data to better understand the demand from different restaurants that will help them enhance customer experience
+FoodHub is a fictional food aggregator company that offers its customers access to multiple restaurants through a single smartphone app. In this project, I analyze the data collected by the Foodhub team to better understand the demand from different restaurants to enhance customer experience
